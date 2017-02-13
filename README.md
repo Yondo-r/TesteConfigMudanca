@@ -1,2 +1,2 @@
 # TesteConfigMudanca
-teste versão 1.1
+teste versão 1.2
